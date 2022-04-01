@@ -76,7 +76,7 @@ export default function Page() {
               <p>#VQV &#128154;</p>
               <a
                 className='contents'
-                href='https://github.com/peterfritz/april-fools-trybe'
+                href='https://github.com/peterfritz/april-fools-trybe/blob/main/README.md'
                 target='_blank'
                 rel='noreferrer'
                 onClick={(e) => {
